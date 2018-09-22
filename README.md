@@ -5,7 +5,7 @@ npm install (já está configurado no package.json)
 
 ## Executar: lite-server
 
-Abrir no navegador: http://localhost:8080
+Abrir no navegador: http://localhost:3000
 
 index.html = bootstrap do exemplo simplificado que montei em cima do demo.html
 demo.html  = exemplo da stimulsoft 
